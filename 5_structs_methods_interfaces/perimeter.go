@@ -1,4 +1,4 @@
-package awesomeProject
+package structs_methods_interfaces
 
 import (
 	"math"

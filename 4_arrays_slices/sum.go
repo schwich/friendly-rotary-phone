@@ -1,4 +1,4 @@
-package arrays_and_slices
+package arrays_slices
 
 func Sum(numbers []int) int {
 	sum := 0
